@@ -33,6 +33,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.venv
 
 # Notebooks
 *.ipynb
@@ -41,3 +42,5 @@ MANIFEST
 .coverage
 coverage.xml
 .tox
+.mypy_cache
+.pytest_cache
